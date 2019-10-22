@@ -2,7 +2,7 @@ package PBO.PMB
 
 import java.util.Scanner
 
-private var pmb = PMB()
+private val pmb = PMB()
 private val reader = Scanner(System.`in`)
 
 fun main() {
